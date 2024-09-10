@@ -11,16 +11,23 @@ The dataset includes financial details such as loan size, interest rates, borrow
 
 ## Machine Learning Process
 Models evaluated include:
-**Linear Models:** Logistic Regression
-**Tree-based Models:** Decision Tree, Random Forest, Extra Trees
-**Kernel-based Model:** Support Vector Machine (SVC)
-**Instance-based Learning:** k-Nearest Neighbors (kNN)
-**Ensemble Models:** AdaBoost, Gradient Boosting, XGBoost, LightGBM
+
+  **Linear Models:** Logistic Regression.
+
+  **Tree-based Models:** Decision Tree, Random Forest, Extra Trees.
+
+  **Kernel-based Model:** Support Vector Machine (SVC).
+
+  **Instance-based Learning:** k-Nearest Neighbors (kNN).
+
+  **Ensemble Models:** AdaBoost, Gradient Boosting, XGBoost, LightGBM.
 
 ## Results
-**Accuracy:** All models achieved 99% accuracy.
-**Best Performing Model:** LightGBM with an AUC of 0.9947, slightly outperforming XGBoost (0.9942).
-**Consistency:** Models demonstrated strong performance with consistent precision, recall, and F1-scores, indicating effective handling of class imbalance.
+  **Accuracy:** All models achieved 99% accuracy.
+
+  **Best Performing Model:** LightGBM with an AUC of 0.9947, slightly outperforming XGBoost (0.9942).
+
+  **Consistency:** Models demonstrated strong performance with consistent precision, recall, and F1-scores, indicating effective handling of class imbalance.
 
 ## Repository Contents
 **Resources Folder: Contains the dataset.
